@@ -6,8 +6,10 @@ A new Flutter project.
 
 - [google_maps_webservice 0.0.14](https://pub.dev/packages/google_maps_webservice#-installing-tab-)
 
-![alt text](https://github.com//Jhonnybmx/flutter-search-address-google-maps/blob/master/lib/pic.png?raw=true)
+<img src="https://github.com//Jhonnybmx/flutter-search-address-google-maps/blob/master/lib/pic.png?raw=true"  >
 
+[<img src="https://www.mountainfamilycenter.org/wp-content/uploads/2018/06/5895ceb8cba9841eabab6072.png" width="200" >
+](https://www.paypal.me/yonysalgado)
 
 This project is a starting point for a Flutter application.
 
