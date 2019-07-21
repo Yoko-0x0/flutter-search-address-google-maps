@@ -11,7 +11,7 @@ void main() {
   ));
 }
 
-var apiKey = "";
+var apiKey = "YOUR KEY HERE";
 
 class MyApp extends StatefulWidget {
   final TextEditingController textEditingController =
